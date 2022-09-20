@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f28fdf6b-7dc0-4868-a6a3-7194bf0d0ced" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Cycl_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/continue.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/while_0_100.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/while_0_n_even.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/while_0_n_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_else.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -41,7 +44,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.while_0_n_even">
+  <component name="RunManager" selected="Python.continue">
     <configuration name="Cycl_while (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cycl_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Михаил\Desktop\Обучение в GeekBrains\Python\PycharmProjects\Cycl_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Guess_the_number_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Guess_the_number_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/continue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.continue" />
+        <item itemvalue="Python.break" />
         <item itemvalue="Python.while_0_n_even" />
         <item itemvalue="Python.while_0_n_input" />
         <item itemvalue="Python.Cycl_while (1)" />
-        <item itemvalue="Python.Cycl_while" />
-        <item itemvalue="Python.Guess_the_number_game" />
       </list>
     </recent_temporary>
   </component>

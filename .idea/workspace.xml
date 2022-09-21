@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f28fdf6b-7dc0-4868-a6a3-7194bf0d0ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cycl_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_0_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_0_n_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_0_n_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Example_program_winners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence1_cycle_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence2_rahge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence3_rahge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence4_rahge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence5_rahge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_list_operator_in.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +50,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.string_example">
-    <configuration name="string1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.set2">
+    <configuration name="dict1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.string_example" />
-        <item itemvalue="Python.string4" />
-        <item itemvalue="Python.string3" />
-        <item itemvalue="Python.string2" />
-        <item itemvalue="Python.string1" />
+        <item itemvalue="Python.set2" />
+        <item itemvalue="Python.set1" />
+        <item itemvalue="Python.set0" />
+        <item itemvalue="Python.dict2" />
+        <item itemvalue="Python.dict1" />
       </list>
     </recent_temporary>
   </component>

@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f28fdf6b-7dc0-4868-a6a3-7194bf0d0ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Game2_Guess_The_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game3_Guess_The_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game4_Guess_The_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game5_Guess_The_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game_Guess_The_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +35,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Game5_Guess_The_Number">
+  <component name="RunManager" selected="Python.DZ7">
+    <configuration name="DZ7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Game2_Guess_The_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,34 +141,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Game_Guess_The_Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game_Guess_The_Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DZ7" />
         <item itemvalue="Python.Game5_Guess_The_Number" />
         <item itemvalue="Python.Game4_Guess_The_Number" />
         <item itemvalue="Python.Game3_Guess_The_Number" />
         <item itemvalue="Python.Game2_Guess_The_Number" />
-        <item itemvalue="Python.Game_Guess_The_Number" />
       </list>
     </recent_temporary>
   </component>

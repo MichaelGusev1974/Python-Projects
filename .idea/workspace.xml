@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f28fdf6b-7dc0-4868-a6a3-7194bf0d0ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Example_program_winners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence1_cycle_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence2_rahge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence3_rahge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence4_rahge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequence5_rahge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_list_operator_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list1.py" beforeDir="false" afterPath="$PROJECT_DIR$/list1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +38,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.set2">
-    <configuration name="dict1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DZ6">
+    <configuration name="DZ4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DZ6" />
+        <item itemvalue="Python.DZ5" />
+        <item itemvalue="Python.DZ4" />
         <item itemvalue="Python.set2" />
         <item itemvalue="Python.set1" />
-        <item itemvalue="Python.set0" />
-        <item itemvalue="Python.dict2" />
-        <item itemvalue="Python.dict1" />
       </list>
     </recent_temporary>
   </component>

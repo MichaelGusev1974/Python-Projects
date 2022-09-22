@@ -21,7 +21,7 @@ friends = ['Max', 'Leo', 'Kate']
 friends.remove('Kate')
 print(friends)
 
-# 1-й способ удаления элемента (объекта) из списка по значению
+# 2-й способ удаления элемента (объекта) из списка по значению
 del friends[0]
 print(friends)
 

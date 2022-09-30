@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f28fdf6b-7dc0-4868-a6a3-7194bf0d0ced" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DZ9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function14 - Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function14 - Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function14 - Sorted.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,11 +42,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Михаил/Desktop/Обучение в GeekBrains/Python/PythonSemminars"
+    "last_opened_file_path": "C:/Users/Михаил/Desktop/Обучение в GeekBrains/Python/PycharmProjects"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.function10">
-    <configuration name="function10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.DZ11">
+    <configuration name="DZ10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="DZ9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions61" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function14 - Map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +142,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Михаил\Desktop\Обучение в GeekBrains\Python\PycharmProjects\functions61.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function14 - Map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.function10" />
-        <item itemvalue="Python.function9" />
-        <item itemvalue="Python.functions61" />
-        <item itemvalue="Python.function8" />
-        <item itemvalue="Python.function7" />
+        <item itemvalue="Python.DZ11" />
+        <item itemvalue="Python.DZ10" />
+        <item itemvalue="Python.DZ9" />
+        <item itemvalue="Python.DZ8" />
+        <item itemvalue="Python.function14 - Map" />
       </list>
     </recent_temporary>
   </component>

@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f28fdf6b-7dc0-4868-a6a3-7194bf0d0ced" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modul/code/firstmodul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul/code/folderb/modb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul/code/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul/code/moda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul/code/modc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul/modul_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul/modul_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_os/modul_os_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_sys/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_sys/last_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_sys/modul_sys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_sys/params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_sys/sys_argv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modul_sys/sys_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/doctors/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/doctors/nurses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/doctors/surgeons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/h.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/patients/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/hospital/patients/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pakege/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function14 - Filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/function14 - Filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function14 - Map.py" beforeDir="false" afterPath="$PROJECT_DIR$/function14 - Map.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +50,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Михаил/Desktop/Обучение в GeekBrains/Python/PythonSemminars&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Михаил/Desktop/Обучение в GeekBrains/Python/PycharmProjects"
   }
-}</component>
-  <component name="RunManager" selected="Python.function14 - Map">
-    <configuration name="DZ10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.example">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_sys/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DZ11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="last_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_sys/last_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DZ9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="params" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +108,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DZ9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_sys/params.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function14 - Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sys_argv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function14 - Filter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_sys/sys_argv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function14 - Map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sys_path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modul_sys" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function14 - Map.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modul_sys/sys_path.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.function14 - Map" />
-        <item itemvalue="Python.function14 - Filter" />
-        <item itemvalue="Python.DZ11" />
-        <item itemvalue="Python.DZ10" />
-        <item itemvalue="Python.DZ9" />
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.params" />
+        <item itemvalue="Python.sys_argv" />
+        <item itemvalue="Python.last_ex" />
+        <item itemvalue="Python.sys_path" />
       </list>
     </recent_temporary>
   </component>
